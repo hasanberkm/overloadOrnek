@@ -1,0 +1,9 @@
+c:\users\berk\documents\visual studio 2017\Projects\overloadOrnek\overloadOrnek\bin\Debug\netcoreapp1.1\overloadOrnek.deps.json
+c:\users\berk\documents\visual studio 2017\Projects\overloadOrnek\overloadOrnek\bin\Debug\netcoreapp1.1\overloadOrnek.runtimeconfig.json
+c:\users\berk\documents\visual studio 2017\Projects\overloadOrnek\overloadOrnek\bin\Debug\netcoreapp1.1\overloadOrnek.runtimeconfig.dev.json
+c:\users\berk\documents\visual studio 2017\Projects\overloadOrnek\overloadOrnek\bin\Debug\netcoreapp1.1\overloadOrnek.dll
+c:\users\berk\documents\visual studio 2017\Projects\overloadOrnek\overloadOrnek\bin\Debug\netcoreapp1.1\overloadOrnek.pdb
+c:\users\berk\documents\visual studio 2017\Projects\overloadOrnek\overloadOrnek\obj\Debug\netcoreapp1.1\overloadOrnek.csprojResolveAssemblyReference.cache
+c:\users\berk\documents\visual studio 2017\Projects\overloadOrnek\overloadOrnek\obj\Debug\netcoreapp1.1\overloadOrnek.AssemblyInfo.cs
+c:\users\berk\documents\visual studio 2017\Projects\overloadOrnek\overloadOrnek\obj\Debug\netcoreapp1.1\overloadOrnek.dll
+c:\users\berk\documents\visual studio 2017\Projects\overloadOrnek\overloadOrnek\obj\Debug\netcoreapp1.1\overloadOrnek.pdb
